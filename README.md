@@ -1,2 +1,2 @@
 # Useful-functions-for-selenium
-useful functions for selenium
+Useful functions for selenium
